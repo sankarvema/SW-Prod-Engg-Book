@@ -1,0 +1,94 @@
+
+## CIA Triad
+
+- Confidentiality is a set of rules that limits access to information
+- Integrity is the assurance that the information is trustworthy and accurate
+- Availability is a guarantee of reliable access to the information by authorized people.
+
+## Topics
+
+- Security Architecture
+  - Authentication
+  - Authorization
+  - Logging & Audit Trails
+  - Encryption & Data Protection
+- Security Engineering
+  - Best practices
+    - Web Application
+    - Mobile Application
+- Application Security Assessment
+  - Risk Assessment
+    - Methods & Frameworks
+    - Tools
+      - Risk Form
+      - Risk Matrix
+  - Application Vulnerability Checklist
+    - Injection Attacks
+      - SQL Injection
+      - Web Form Injection
+    - Cross Site Scripting (XSS) Attacks
+    - Broken Authentication & Session management
+      - Man in the Middle
+    - Insecure direct object reference
+    - Cross Site request forgery
+    - Security Miss Configuration
+    - Insecure Crypto Store
+    - Failure to restrict URL Access
+    - Insufficient Transport Layer Protection
+    - Unvalidated Redirects and Forwards
+    - Clickjacking
+    - Privilege Escalation
+  - Best practices
+    - Web App Security Guidelines
+    - Mobile App Security Guidelines
+  - Identity Management
+- Advanced Attack Stimulation
+  - Types of Attacks
+    - Brute-force Attacks
+    - Social Engineering
+      - Phishing
+      - Spear Phishing
+      - Vishing
+      - Pretexting
+      - Baiting
+      - Tailgating
+      - Quid Pro Quo
+      - Best Practices
+    - Mobile Security
+      - Common Risks
+        - Data Leakage
+        - Social Engineering
+        - Interference thru Unsecure WiFi
+        - Physical Device Breach
+        - Weak Server side Controls
+        - Absence of binary Protection
+        - Inadequate Transport Layer Protection
+        - Poor Authentication and Authorization
+        - Damaged Cryptography
+        - Client Side Injection
+  - Penetration Testing
+  - Vulnerability Scanning
+    - 0-Day Vulnerability
+  - Exploit Analysis
+  - Threat Analysis
+  - Standard Vulnerabilities
+    - SQL Injection
+    - Remote Code Injection
+    - Patch Vulnerability
+
+- Security Governance & Frameworks
+  - ISO 17799
+  - NIST SP 800-115
+  - OWASP
+  - DoD 8570
+  - ISO 17024
+  - SAMM
+  - PCI DSS (47%)
+  - ISO 27001/27002 (35%)
+  - CIS Critical Security Controls (32%)
+  - NIST Framework for Improving Critical Infrastructure Security (29%)
+- Toolset
+  - SIEM
+  - Pen Testing
+- Self Assessment
+  - Where are we?
