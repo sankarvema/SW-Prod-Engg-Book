@@ -14,3 +14,10 @@
 - Domain controllers
 - Wireless access points
 - Application servers, intranet application and databases
+
+
+
+# Reference:
+
+1. Application security tools pyramid https://insights.sei.cmu.edu/sei_blog/2018/07/10-types-of-application-security-testing-tools-when-and-how-to-use-them.html
+- 
