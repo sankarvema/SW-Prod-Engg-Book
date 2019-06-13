@@ -1,0 +1,4 @@
+
+
+Data Lake:
+Amazon Kinesis
