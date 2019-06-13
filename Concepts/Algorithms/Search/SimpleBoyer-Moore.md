@@ -1,0 +1,1 @@
+# Simple Boyer-Moore Algorithm

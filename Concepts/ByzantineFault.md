@@ -1,0 +1,5 @@
+Byzantine fault (also interactive consistency, source congruency, error avalanche, Byzantine agreement problem, Byzantine generals problem, and Byzantine failure[1]) is a condition of a computer system, particularly distributed computing systems, where components may fail and there is imperfect information on whether a component has failed. The term takes its name from an allegory, the "Byzantine Generals' Problem",[2] developed to describe this condition, where actors must agree on a concerted strategy to avoid catastrophic system failure, but some of the actors are unreliable.
+
+In a Byzantine fault, a component such as a server can inconsistently appear both failed and functioning to failure-detection systems, presenting different symptoms to different observers. It is difficult for the other components to declare it failed and shut it out of the network, because they need to first reach a consensus regarding which component has failed in the first place.
+
+Byzantine fault tolerance (BFT) is the dependability of a fault-tolerant computer system to such conditions
